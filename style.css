@@ -1,0 +1,44 @@
+.HEADER{
+font-size:larger ;
+width: 100%;
+margin: 0px;
+box-shadow:20px 20px 10px orange ;
+}
+body{
+    background-size: cover;
+}
+.songimg {
+    height:300px;
+    width: 300px;
+    border-radius: 150px;
+box-shadow:20px 20px 10px tomato;
+margin-right: 20px;
+}
+#supersong{
+    margin-left: 20px;
+    box-shadow:5px 5px 10px #e5fd08 ;
+    
+}
+.songdiv{
+    float: right;
+}
+.changediv{
+    float: left;
+}
+#note{
+color: brown    ;
+}
+.changeimg { height:300px;
+width: 300px;
+border-radius: 150px;
+box-shadow:20px 20px 10px tomato;
+margin-left: 10px;
+}
+#superchange{
+box-shadow:5px 5px 10px #e5fd08 ;}
+
+canvas{
+    border: 20px solid yellowgreen;
+    border-radius:10px ;
+    box-shadow:50px 50px 10px #3621f7 ;
+}
